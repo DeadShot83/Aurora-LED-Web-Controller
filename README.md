@@ -23,7 +23,7 @@ A beautiful Flask-based web interface for controlling LED strips via Bluetooth.
 ## Quick Install
 
 ```bash
-git clone https://github.com/yourusername/aurora-led-web.git
+git clone https://github.com/DeadShot83/aurora-led-web.git
 cd aurora-led-web
 chmod +x install.sh
 ./install.sh
